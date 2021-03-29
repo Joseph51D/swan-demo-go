@@ -1,0 +1,15 @@
+{
+   "category": "Publisher",
+   "name": "New Pork Limes",
+   "swanMessage": "Getting things ready. New Pork Limes rocks!",
+   "swanBackgroundColor": "#fff",
+   "swanMessageColor": "#343a40",
+   "swanProgressColor": "#6c757d", 
+   "swanDisplayUserInterface" : true,
+   "cmp": "cmp.swan-demo.co.uk",
+   "SWANAccessNode": "51df.co.uk",
+   "SWANAccessKey": "PubKeyNewPorkLimes",
+   "suppliers": [
+      "magnite.swan-demo.co.uk"
+   ]
+}
